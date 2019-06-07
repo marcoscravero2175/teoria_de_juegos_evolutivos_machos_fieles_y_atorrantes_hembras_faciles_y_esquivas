@@ -1,0 +1,3 @@
+from proyecto_machos_fieles_atorrantes_hembras_esquivas_faciles.server import server
+
+server.launch()
