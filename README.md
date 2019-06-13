@@ -108,16 +108,16 @@ Cuando se llega a unan situación donde todas las hembras son esquivas y los mac
 
 Si todas las hembras son esquivas y los machos son files, una hembra fácil puede invadir la población y sacar ventaja de que todos los machos son fieles. En este punto estamos en la misma situación que cuando se empezó el ciclo, una población donde las hembras son fáciles y los machos son fieles.
 
-* Richard Dawkins, El Gen Egoista.
-* Richard Dawkins, El Relojero Ciego.
-* Richard Dawkins, Escalando el Monte Improbable.
-* Richard Dawkins, El Rio del Eden.
-* Daniel Dennett, La Peligrosa Idea de Darwin.
-* Daniel Dennett, La Evolucion de La Libertad.
-* Steven Pinker, La Tabla Rasa.
-* Steven Pinker, El Instinto del Lenguaje.
-* John Maynard Smith, Evolucion y Teoria de los Juegos.
-* John Maynard Smith, Animal Signals.
+* **Richard Dawkins, El Gen Egoista./**
+* **Richard Dawkins, El Relojero Ciego./**
+* **Richard Dawkins, Escalando el Monte Improbable./**
+* **Richard Dawkins, El Rio del Eden./**
+* **Daniel Dennett, La Peligrosa Idea de Darwin./**
+* **Daniel Dennett, La Evolucion de La Libertad./**
+* **Steven Pinker, La Tabla Rasa./**
+* **Steven Pinker, El Instinto del Lenguaje./**
+* **John Maynard Smith, Evolucion y Teoria de los Juegos./**
+* **John Maynard Smith, Animal Signals./**
 
 
 
