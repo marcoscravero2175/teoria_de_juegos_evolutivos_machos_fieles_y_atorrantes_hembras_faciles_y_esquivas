@@ -1,5 +1,13 @@
 # Teoria de los Juegos Evolutivos. Machos fieles y atorrantes, hembras faciles y esquivas.
 
+## Simulacion online
+
+https://machos-hembras.herokuapp.com/
+
+
+## Introduccion
+
+
 
 Los animales necesitan recursos, como agua y alimento, para vivir. En un ambiente favorable un individuo puede tener más hijos que en un ambiente desfavorable. Por ejemplo, supongamos, que en un ambiente favorable un individuo tiene en promedio 5 hijos y en un ambiente desfavorable tiene 2 hijos, podríamos asignarle al recurso un valor de 3 puntos. La diferencia entre la cantidad de hijos que tiene el individuo en un ambiente favorable menos la diferencia de hijos que el individuo tiene en un ambiente desfavorable es el valor del recurso ambiente favorable. Los individuos van sumando puntos con cada recurso que consiguen, cada recurso aporta una pequeña fracción del total de puntos. Cuando llega a una determinada edad, el individuo se reproduce asexualmente creando copias de sí mismo de acuerdo a la cantidad de puntos obtenidos y luego muere.
 
