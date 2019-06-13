@@ -139,6 +139,8 @@ histogram = HistogramModule(list(range(10)), 200, 500)
 #histogram = HistogramModule(list(range(10)), 200, 500)
 
 server = ModularServer(Ambiente, [canvas_element, chart_element, histogram], "Machos galanteadores y fieles. Hembras faciles y esquivas", model_params)
-server.port = 8256
+
+#server.port = 8257
+server.port = int(os.environ.get("PORT", 5000))
 
 server.launch()
