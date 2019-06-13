@@ -6,7 +6,7 @@ from proyecto_machos_fieles_atorrantes_hembras_esquivas_faciles.agentes import M
 from proyecto_machos_fieles_atorrantes_hembras_esquivas_faciles.model import Ambiente
 
 import random
-
+import os
 
 from framework_mesa.visualization.ModularVisualization import VisualizationElement
 import numpy as np
