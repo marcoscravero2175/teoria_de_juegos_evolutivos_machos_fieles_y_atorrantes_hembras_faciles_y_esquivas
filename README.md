@@ -116,6 +116,8 @@ Si todas las hembras son esquivas y los machos son files, una hembra fácil pued
 * Daniel Dennett, La Evolucion de La Libertad.
 * Steven Pinker, La Tabla Rasa.
 * Steven Pinker, El Instinto del Lenguaje.
+* John Maynard Smith, Evolucion y Teoria de los Juegos.
+* John Maynard Smith, Animal Signals.
 
 
 
